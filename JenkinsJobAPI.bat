@@ -1,0 +1,1 @@
+newman run "C:\Postman_course\Booking_API_collection.json" -e "C:\Postman_course\BookingAPI_environment.json" --reporters=cli,htmlextra

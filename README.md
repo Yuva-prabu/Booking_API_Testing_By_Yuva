@@ -1,3 +1,4 @@
+🚀 From API Testing to CI Automation | Postman + Newman + Jenkins
 I recently completed a hands-on API Testing & Automation project using the Demo Booking application.
 In this project, I worked on:
 🔹 Designed API test cases covering positive and negative scenarios
